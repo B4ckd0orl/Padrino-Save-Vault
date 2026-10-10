@@ -1,0 +1,7 @@
+# Código fuente protegido (Closed Source)
+src/
+bin/
+*.py
+__pycache__/
+*.o
+*.tmp
